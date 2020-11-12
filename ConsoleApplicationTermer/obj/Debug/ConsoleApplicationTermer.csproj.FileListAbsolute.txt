@@ -1,0 +1,7 @@
+C:\Users\kevin\Documents\Visual övningar\ConsoleApplicationTermer\ConsoleApplicationTermer\bin\Debug\ConsoleApplicationTermer.exe.config
+C:\Users\kevin\Documents\Visual övningar\ConsoleApplicationTermer\ConsoleApplicationTermer\bin\Debug\ConsoleApplicationTermer.exe
+C:\Users\kevin\Documents\Visual övningar\ConsoleApplicationTermer\ConsoleApplicationTermer\bin\Debug\ConsoleApplicationTermer.pdb
+C:\Users\kevin\Documents\Visual övningar\ConsoleApplicationTermer\ConsoleApplicationTermer\obj\Debug\ConsoleApplicationTermer.csprojAssemblyReference.cache
+C:\Users\kevin\Documents\Visual övningar\ConsoleApplicationTermer\ConsoleApplicationTermer\obj\Debug\ConsoleApplicationTermer.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Visual övningar\ConsoleApplicationTermer\ConsoleApplicationTermer\obj\Debug\ConsoleApplicationTermer.exe
+C:\Users\kevin\Documents\Visual övningar\ConsoleApplicationTermer\ConsoleApplicationTermer\obj\Debug\ConsoleApplicationTermer.pdb
